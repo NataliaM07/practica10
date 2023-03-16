@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(236, 143, 236);
+}
+.nav{
+    background-color: rgb(95, 93, 93);
+}
+.thead-dark{
+    background-color: rgb(56, 55, 55);
+}
+.letras{
+    color: white;
+}
